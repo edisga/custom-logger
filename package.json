@@ -1,7 +1,7 @@
 {
   "name": "edisga-customlogger",
   "version": "1.0.2",
-  "description": "Custom logger for console output (stdout and stderr) and json response. Just intented for internal test project",
+  "description": "Custom logger for console output (stdout and stderr) and json response. Just intended for internal test project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
